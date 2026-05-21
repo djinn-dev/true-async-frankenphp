@@ -1,0 +1,15 @@
+{
+    "name": "djinn-dev/true-async-frankenphp",
+    "type": "library",
+    "description": "IDE helper for trueasync/php-true-async:latest-frankenphp.",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Trevor Geene",
+            "email": "trevor.geene@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.6"
+    }
+}
