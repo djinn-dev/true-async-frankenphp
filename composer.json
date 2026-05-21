@@ -3,7 +3,6 @@
     "type": "library",
     "description": "IDE helper for trueasync/php-true-async:latest-frankenphp.",
     "license": "GPL-3.0",
-    "version": "1.0",
     "authors": [
         {
             "name": "Trevor Geene",
