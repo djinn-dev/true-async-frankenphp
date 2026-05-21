@@ -4,8 +4,6 @@ declare(strict_types=1);
 
 namespace FrankenPHP;
 
-use UploadedFile;
-
 final class Request
 {
     public function getMethod(): string {}

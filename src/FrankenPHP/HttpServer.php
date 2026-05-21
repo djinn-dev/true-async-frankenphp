@@ -4,9 +4,6 @@ declare(strict_types=1);
 
 namespace FrankenPHP;
 
-use Request;
-use Response;
-
 final class HttpServer
 {
     /**
