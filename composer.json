@@ -2,7 +2,11 @@
     "name": "djinn-dev/true-async-frankenphp",
     "type": "library",
     "description": "IDE helper for trueasync/php-true-async:latest-frankenphp.",
-    "license": "GPL-3.0",
+    "keywords": [
+        "true-async",
+        "frankenphp"
+    ],
+    "license": "MIT",
     "authors": [
         {
             "name": "Trevor Geene",
